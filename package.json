@@ -1,0 +1,11 @@
+{
+  "name": "heroku.ping",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/sunker/heroku.ping.git",
+  "author": "Erik Sundell <erik.sundell87@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "heroku-ping": "^0.1.0"
+  }
+}
